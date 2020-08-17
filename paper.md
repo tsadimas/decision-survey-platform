@@ -15,16 +15,14 @@ authors:
     affiliation: "1"
   - name: Thomas Kamalakis
     affiliation: "1"
-
 affiliations:
- - name: Harokopio University of Athens, Department of Informatics and Telematics
-   index: 1
-
+  - name: Harokopio University of Athens, Department of Informatics and Telematics
+    index: 1
 date: 17 August 2020
 bibliography: paper.bib
 
 
-#Summary 
+# Summary
 
 The DecisiOn sUpport weB plaTform (NO-DOUBT) aims to assist in
 complicated multicriteria decision making problems, using the Analytic
@@ -61,7 +59,7 @@ helpful both for daily simple decision problems and complex decision
 making problems in every day life, organizations, academia and
 industries.
 
-#Statement of Need 
+# Statement of Need
 
 Inspection of previous efforts reveals that there is a variety of tools
 that support the AHP methodology either commercial or open source (OSS).
@@ -102,7 +100,7 @@ estimation of the probability of rank reversal in order to investigate
 the stability of the final
 outcomes[@dede2015convergence],[@dede2016theoretical].
 
-#AHP Methodology 
+# AHP Methodology
 
 AHP is a multi-criteria decision making methodology which adopts a
 hierarchical form using three conceptual levels. In the first level, the
@@ -137,7 +135,7 @@ $f_{j_k} · w_k$ of the corresponding factor as follows:
 
 $$T_i=\sum_{k=1}^{N}\sum_{j=1}^{J_k}S_{ijk} f_{jk} w_k$$
 
-#Functionalities 
+# Functionalities
 
 The NO-DOUBT tool is user friendly with clear and easy to follow
 procedures. The site is separated by user and administrator accounts.
@@ -146,14 +144,14 @@ answer a survey and extract research results based on the user answers.
 On the other hand a user can register and answer an assigned survey as
 well as view his judgments and results.
 
-#Administrator 
+# Administrator
 
 The administrator can find all the possible actions in a sidebar in his
 main screen as presented below:
 
 ![Admin Main Page](admin_main "fig:") [fig:admin~m~ain]
 
-## Creating a Survey 
+## Creating a Survey
 
 The administrator will have to complete a series of simple forms for the
 creation of a survey. The AHP methodology requires the survey to have at
@@ -172,7 +170,7 @@ link in the sidebar.
 ![Create Alternatives](create_alternatives "fig:")
 [fig:create~a~lternatives]
 
-## Assigning to users and publishing for answers 
+## Assigning to users and publishing for answers
 
 When the survey is created, the next step is to assign users to fill in
 the survey. This can be achieved by pressing the Set User to Research
@@ -191,7 +189,7 @@ administrator to complete the survey.
 
 ![Edit, Publish Survey](publish "fig:") [fig:edit-publish]
 
-## Generating results of completed research 
+## Generating results of completed research
 
 When a survey is complete, either by passing the end date, or manually
 by the administrator, we can estimate and extract the results through
@@ -214,7 +212,7 @@ Excel file.
 
 ![Extract results](extract_to_excel "fig:") [fig:extract-to-excel]
 
-#User 
+# User
 
 The user is more simplified than the administrator. A user is only able
 to fill in an assigned survey and display previous results. For each
@@ -238,4 +236,4 @@ of the research.
 ![Choose a research](previous_research "fig:") [fig:previous~r~esearch]
 
 
-#References
+# References
