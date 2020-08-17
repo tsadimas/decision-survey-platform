@@ -153,7 +153,7 @@ main screen as presented below:
 
 ![Admin Main Page](admin_main "fig:") [fig:admin~m~ain]
 
-## Creating a Survey
+# Creating a Survey
 
 The administrator will have to complete a series of simple forms for the
 creation of a survey. The AHP methodology requires the survey to have at
@@ -172,7 +172,7 @@ link in the sidebar.
 ![Create Alternatives](create_alternatives "fig:")
 [fig:create~a~lternatives]
 
-## Assigning to users and publishing for answers
+# Assigning to users and publishing for answers
 
 When the survey is created, the next step is to assign users to fill in
 the survey. This can be achieved by pressing the Set User to Research
@@ -191,7 +191,7 @@ administrator to complete the survey.
 
 ![Edit, Publish Survey](publish "fig:") [fig:edit-publish]
 
-## Generating results of completed research
+# Generating results of completed research
 
 When a survey is complete, either by passing the end date, or manually
 by the administrator, we can estimate and extract the results through
