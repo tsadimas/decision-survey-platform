@@ -23,7 +23,7 @@ affiliations:
 date: 17 August 2020
 bibliography: paper.bib
 
-
+---
 # Summary 
 
 The DecisiOn sUpport weB plaTform (NO-DOUBT) aims to assist in
