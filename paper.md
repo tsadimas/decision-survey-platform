@@ -236,3 +236,6 @@ researches. By clicking the link he will be able to download the results
 of the research.
 
 ![Choose a research](previous_research "fig:") [fig:previous~r~esearch]
+
+
+#References
