@@ -26,7 +26,7 @@ bibliography: paper.bib
 
 #Summary 
 
-:The DecisiOn sUpport weB plaTform (NO-DOUBT) aims to assist in
+The DecisiOn sUpport weB plaTform (NO-DOUBT) aims to assist in
 complicated multicriteria decision making problems, using the Analytic
 Hierarchy Process (AHP). The AHP has been used around the world in a
 wide variety of decision situations, in fields such as government,
