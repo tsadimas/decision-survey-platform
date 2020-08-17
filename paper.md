@@ -13,6 +13,8 @@ authors:
     affiliation: "1"
   - name: Ioannis Nikolaou
     affiliation: "1"
+  - name: Anargyros Tsadimas
+    affiliation: "1"
   - name: Thomas Kamalakis
     affiliation: "1"
 
