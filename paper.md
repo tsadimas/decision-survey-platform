@@ -6,7 +6,7 @@ tags:
   - web platform
   - AHP
 authors:
-  - name: Georgia Dede^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
+  - name: Georgia Dede^
     orcid: 0000-0003-2947-7470
     affiliation: "1" 
   - name: Dimitrios Alexandrakis
