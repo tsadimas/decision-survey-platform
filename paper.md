@@ -153,7 +153,7 @@ well as view his judgments and results.
 The administrator can find all the possible actions in a sidebar in his
 main screen as presented below:
 
-![Administrator Page.\label{fig:admin_main}](admin_main.png)
+![Administrator Page.\label{fig:screenshots\admin_main}](admin_main.png)
 
 ## Creating a Survey
 
